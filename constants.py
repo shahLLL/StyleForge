@@ -1,0 +1,11 @@
+AUTHOR_TAG_1  = "Arthur-Conan-Doyle"
+AUTHOR_TAG_2  = "Charles-Dickens"
+AUTHOR_TAG_3  = "Homer"
+AUTHOR_TAG_4  = "Shakespeare"
+CHUNK_SIZE    = 256
+RAW_DIR       = "data/raw"
+PROCESSED_DIR = "data/processed"
+DATASET_DIR    = "data/dataset"
+OUTPUT_DIR      = "./checkpoints"
+ADAPTER_DIR     = "./model/styleforge_lora"
+MODEL = "gpt2"
