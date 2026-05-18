@@ -219,3 +219,6 @@ __marimo__/
 
 # Generated
 data/processed
+data/dataset
+checkpoints/
+model/
