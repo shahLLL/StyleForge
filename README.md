@@ -28,7 +28,7 @@ be installed using any Python Package Manager such as **pip**.
 # 🥊 Training
 There are 4 steps involved in training and fine-tuning in this project:
 
-- **Preparing Data**: This step involves collecting data to be used and cleaning/chunking it. For this initial setup data has been collected from Project Gutnberg on the following authors: Arthur Conan Doyle, Homer, Shakespeare, and Charles Dickens. This can be found in the `data/raw` section. This step involves running 
+- **Preparing Data**: This step involves collecting data to be used and cleaning/chunking it. For this initial setup data has been collected from [Project Gutenberg](https://www.gutenberg.org/) on the following authors: Arthur Conan Doyle, Homer, Shakespeare, and Charles Dickens. This can be found in the `data/raw` section. This step involves running 
 the `prepare_data.py` script which prepares the data so that the model can be trained.
 
 - **Creating Dataset**: This step involves creating training and validation sets from our cleaned data. This can be accomplished by running the
